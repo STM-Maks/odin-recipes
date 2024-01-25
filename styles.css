@@ -1,0 +1,45 @@
+body {
+  background-color: #eaddca;
+}
+
+div {
+  text-align: center;
+}
+
+ul.myUL,
+ol.myOL {
+  display: inline-block;
+  text-align: left;
+}
+
+ul.myUL,
+ol.myOL,
+.paragraph {
+  color: #355e3b;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 2;
+}
+
+.heading,
+.subheading {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #2f4f4f;
+}
+
+.lasagna,
+.chicken-katsu,
+.beef-stroganoff {
+  background-color: #cd7f32;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 50px;
+  background-color: #c19a6b;
+}
+
+.subheading {
+  background-color: #e1bf92;
+  font-size: 35px;
+}
